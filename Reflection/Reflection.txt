@@ -1,0 +1,13 @@
+- Conecept of metadata
+
+- java.lang.Class and its methods
+
+- instantiation of java.lang.Class class
+
+- Javap example
+
+- Middleware example
+
+- identifing array at runtime
+
+- creating array at runtime

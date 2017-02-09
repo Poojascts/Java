@@ -1,0 +1,11 @@
+- What is datatype?
+- Value Type and reference type
+- default values and sizes of data type
+- Wrapper class and its Hierarcy
+- Methods of Number class
+- Checking minimum and maximum value of type
+- String.valueOf() and TypeName.parseXxx() method
+- Narrowing and Widening
+- Boxing and UnBoxing
+- NumberFormatException
+- Writing generic parse method.

@@ -1,0 +1,6 @@
+- Network terminology
+- What is socket
+- Exploring java.net package.
+- Accessing host name and address using classes.
+- Interprocess communication using TCP and UDP
+- MultiChat Server demo.
